@@ -1,0 +1,1 @@
+var z: boolean = 23.4 + "";

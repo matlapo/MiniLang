@@ -1,0 +1,7 @@
+var t: string = "";
+
+if TRUE {
+
+} else {
+	t = 4;
+}

@@ -1,0 +1,4 @@
+//undeclared variable
+
+var a: int = y;
+b = 5;

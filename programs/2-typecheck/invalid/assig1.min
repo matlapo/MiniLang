@@ -1,0 +1,4 @@
+var x: int = 9;
+var y: float = 12.2;
+
+x = y;

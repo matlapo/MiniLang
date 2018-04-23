@@ -1,0 +1,4 @@
+var z : boolean = FALSE;
+var x : int = 56;
+
+z = z == (FALSE || x) == 4;
